@@ -1,1 +1,1 @@
-# SoftUni-Python-Fundamentals-course
+My homeworks in SoftUni Python Fundamentals course
